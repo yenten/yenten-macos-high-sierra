@@ -9,11 +9,9 @@ community in case if you could or would not compile wallet by yourself.
 
 ## Yenten projects
 
-**🎱 Yenten Pool** https://github.com/yenten/yenten-pool
+**🔥 Yenten** https://github.com/yenten – Yenten Open Source Software Support Initiative
 
 **💻 CryptoFoundry** https://github.com/cryptofoundry – Blockchain Research and Development Group
-
-**🔥 Yenten** https://github.com/yenten – Yenten Open Source Software Support Initiative
 
 ## Donate
 
